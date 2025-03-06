@@ -3,6 +3,7 @@ Short Python script that detects alerts from Minecraft Anti-Cheats and plays a s
 
 I made this script with the intention of moderating minecraft servers 24/7 while being able to do other things during the day without having to check the Minecraft chat every time. Most Anti-Cheat services don't play sounds when alerts are given in chat so this helps :3.
 
+
 # Dependencies
 
  -watchdog (for monitoring file changes)
@@ -16,6 +17,7 @@ To install both run:
 or
 
  ```py pip install watchdog playsound```
+
 
 # Usage
 
@@ -38,6 +40,7 @@ or
 or
 
  ```py anticheatps.py```
+
 
 # Contribute pls :3!
 Feel free to open issues or submit pull requests if you have improvements!
