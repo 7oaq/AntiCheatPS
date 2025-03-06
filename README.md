@@ -2,8 +2,6 @@
 Short Python script that detects alerts from Minecraft Anti-Cheats and plays a sound on your computer.
 I made this script with the intention of moderating minecraft servers 24/7 while being able to do other things during the day without having to check the Minecraft chat every time. Most Anti-Cheat services don't play sounds when alerts are given in chat so this helps :3.
 
-# Installation
-
 # Dependencies
  -watchdog (for monitoring file changes)
  -playsound (for playing sound alerts)
