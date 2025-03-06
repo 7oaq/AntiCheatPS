@@ -29,7 +29,9 @@ or
 
 2.- Open script in VSC and update:
 
-  LOGS_FOLDER = " "  -> Paste the path to your own Logs Folder (Default Minecraft logs are found in 'C:\Users\"yourname"\AppData\Roaming\.minecraft\logs')
+  LOGS_FOLDER = " "  -> Paste the path to your own Logs Folder 
+  
+  (Default Minecraft logs are found in 'C:\Users\"yourname"\AppData\Roaming\.minecraft\logs')
   
   SOUND_FILE = "MGS.mp3"  -> Paste path to your desired sound file if you want a different sound than the one I use.
 
