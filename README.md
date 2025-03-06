@@ -10,7 +10,7 @@ To install both run:
 or
  ```py pip install watchdog playsound```
 
-#Usage
+# Usage
 
 1.- Clone repository
  ```git clone https://github.com/yourusername/AntiCheatPS.git```
